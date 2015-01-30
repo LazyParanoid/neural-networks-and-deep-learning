@@ -1,5 +1,4 @@
 """network2.py
-~~~~~~~~~~~~~~
 
 An improved version of network.py, implementing the stochastic
 gradient descent learning algorithm for a feedforward neural network.
